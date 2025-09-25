@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :25/9/25
+# Reg. No:212222210004
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,8 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+This image depicts a young anime boy with spiky black hair, wearing an orange martial arts gi with a blue belt and wristbands. He is standing proudly in a grassy field with mountains and a blue sky in the background. The art style is soft and painterly, similar to Studio Ghibli, with warm earthy tones and gentle shading that give it a hand-drawn, traditional feel. The character’s wide smile and bright eyes convey a sense of joy and optimism.
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/eb2cb9f4-233d-4786-8c5a-3d834761a43b" />
+
